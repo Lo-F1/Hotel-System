@@ -1,0 +1,25 @@
+     ** Welcome Customer **
+
+Bill Number: 84217
+Customer Name: peter
+==============================
+Product	      Qty	    Price
+==============================
+Soda	      8	      Sh. 640
+Water	      5	      Sh. 200
+Juice	      3	      Sh. 210
+Wine	      4	      Sh. 2800
+Coffee	      5	      Sh. 600
+Milk	      6	      Sh. 360
+Black Tea	    7	      Sh. 560
+Matoke	      8	      Sh. 1200
+Rice	      8	      Sh. 800
+Posho	      9	      Sh. 450
+Meat	      322	      Sh. 77280
+Beans	      4	      Sh. 400
+Vegetables	   5	      Sh. 200
+------------------------------
+V.A.T	         Ksh. 13712.00
+
+Total Bill	      Ksh. 99412.00
+------------------------------

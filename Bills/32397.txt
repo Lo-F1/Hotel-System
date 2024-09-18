@@ -1,0 +1,17 @@
+     ** Welcome Customer **
+
+Bill Number: 32397
+Customer Name: Collo
+==============================
+Product	      Qty	    Price
+==============================
+Soda	      1	      Sh. 80
+Water	      1	      Sh. 40
+Wine	      2	      Sh. 1400
+Posho	      4	      Sh. 200
+Meat	      3	      Sh. 720
+------------------------------
+V.A.T	         Ksh. 390.40
+
+Total Bill	      Ksh. 2830.40
+------------------------------

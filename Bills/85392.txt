@@ -1,0 +1,22 @@
+     ** Welcome Customer **
+
+Bill Number: 85392
+Customer Name: Ari
+==============================
+Product	      Qty	    Price
+==============================
+Soda	      1	      Sh. 80
+Water	      2	      Sh. 80
+Juice	      1	      Sh. 70
+Milk	      2	      Sh. 120
+Black Tea	    1	      Sh. 80
+Matoke	      1	      Sh. 150
+Rice	      2	      Sh. 200
+Meat	      1	      Sh. 240
+Beans	      2	      Sh. 200
+Vegetables	   1	      Sh. 40
+------------------------------
+V.A.T	         Ksh. 201.60
+
+Total Bill	      Ksh. 1461.60
+------------------------------

@@ -1,0 +1,22 @@
+     ** Welcome Customer **
+
+Bill Number: 53603
+Customer Name: Testing Again
+==============================
+Product	      Qty	    Price
+==============================
+Soda	      1	      Sh. 80
+Water	      1	      Sh. 40
+Juice	      1	      Sh. 70
+Coffee	      1	      Sh. 120
+Milk	      1	      Sh. 60
+Black Tea	    1	      Sh. 80
+Rice	      1	      Sh. 100
+Meat	      1	      Sh. 240
+Beans	      1	      Sh. 100
+Vegetables	   2	      Sh. 80
+------------------------------
+V.A.T	         Ksh. 155.20
+
+Total Bill	      Ksh. 1125.20
+------------------------------
